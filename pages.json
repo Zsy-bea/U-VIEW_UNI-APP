@@ -12,7 +12,13 @@
 		{
 			"path": "pages/center/index",
 			"style": {
-				"navigationBarTitleText": "uView-center"
+				"navigationBarTitleText": "个人中心"
+			}
+		},
+		{
+			"path": "pages/center/notice",
+			"style": {
+				"navigationBarTitleText": "通知"
 			}
 		}
 	],
